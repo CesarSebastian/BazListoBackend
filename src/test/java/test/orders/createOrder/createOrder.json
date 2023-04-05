@@ -1,0 +1,64 @@
+{
+  "fechaPedido": 1678923845224,
+  "descripcionPedido": "//FcJg97PP59L2be1WDd9uHE5X99bmPSQ7qTmESc0tKnFKwR2ATYd7hQs74dT6TKXa+4o6CKVxCtGdNhzH4BeA==",
+  "chatId": "qt79dFZfu81erqYprkNjD3Mpp9/W9sdyne6uddAHhcmSCIOitLdd1JhIv6mzZ5kWqYJuZ7Ml6H9wR6yFNeB470lCHAyukhlVhxAgpLiym4Y=",
+  "cliente": {
+    "idi": "Jw0maon+TkEfSH3SE95AwX3183qtkojqJ4JBOZHlJj7j2OUMrfvjYb/Q2IX0AET1MBA8v3GkBcj/vrRxSgIZiw==",
+    "contacto": "kf96kkDpSb3wpnmAf2tAhtVKfFKeUx9yZXl6pqxUBos=",
+    "nombre": "RTvD4dkvdpuNCbi7dtN7OrRc+CK0fiojxhoCmqSmWD8=",
+    "direccion": {
+      "referencia": "",
+      "entreCalles": null,
+      "imagenReferencia": null,
+      "etiquetaLugar": "",
+      "calle": "+w5+lQYSm2JgLuEkiDOyU8LnE6SXV6WGA6nZwtT+YBvKRKTaQlMSTDtq0oW+YPb4",
+      "numeroExterior": "oNkWsfLlpVNk3HIki7uo8dNP0c1PrLCb+P5T8Gd3Wbo=",
+      "numeroInterior": "/zN5WM6DVQESBT6nGCB6jnyuNhyIL70axAvcgw+mHes=",
+      "colonia": "KOX+rGfguNFl3hLMGW/kkqCS+fxWGS9je1HMs2bpAnlQk7urBl6140gNdhuvdKyX",
+      "codigoPostal": "Jy6A/qjHvJGq4Sy7px2F5NuWRiGiHUxuYhWul0KQ4p0=",
+      "municipio": "4+kHSWC0n8A1n6LmBZINlLWvOZ37tuPD1MtZToU0Nc8=",
+      "entidadFederativa": "N/KTMp4vxy3ZX1d/COmgkFmgHXc9z4PUJzsA52xN+00=",
+      "ciudad": "pdyfgl40C5O0WqaCR0fkqgO4P2y5Fkrl6yMSR0laGNM=",
+      "ubicacion": {
+        "latitud": "AXPfr/oiYOIWAJC+vc5CS/v1zRbqCNbtpnAcfgzNmdU=",
+        "longitud": "reN65XZJRemfohgsHqVJMtnNOnjA0uKtYg+nAtvIV+4="
+      }
+    }
+  },
+  "negocio": {
+    "id": "Xg7RuIL3Oi5UooWqmrRb2yUx2r9TN4gHoJSG6/4de+9/PhI1wbm/eNPgZzZJb/Lw",
+    "contacto": "6VLU56+ucBWFnoOrWUUW8LNqCA6KdA4m/H3S209PVVc=",
+    "logo": "zgBySK9oHtAfD90ncE2w/IXHlmIhwtdHX3pNSnLuji7CcqsxOjV8ir12iALcmLkaoV80i2uGYc2COqGaVqWn4/D6Ao+Jex7J13fx60iTAeuAhs07LZpJIG71J9tLeGTTDlG6zHxmGlZ4gZwcZOURbA==",
+    "name": "/NJ2BZM7KmjLIpc52Bl8k92XU6GIDuoSJgZ5GxCf5snz++wiewOzo82KWSbLAW9m",
+    "owner": "I21vq3QC4pS1lB0YuCz+iD+mQgMPeJpr6yEqnqAAULP234rZEr2X/HFX6uOcDVtTTymEyqrhdsMlH5HqdV8Yig==",
+    "direccion": {
+      "referencia": "",
+      "entreCalles": "",
+      "imagenReferencia": "",
+      "etiquetaLugar": "",
+      "calle": "HoMRtxCpy1jhIsQ9pph6IthQT62fcHjQO/INBDib5qWuzkMPxK6QvM9hfew89gys",
+      "numeroExterior": "pnqljZGuRrB8zFBZk6Qos+bRwbcD+a7MPl4QZ94/AaU=",
+      "numeroInterior": "iAgz1Nt4osy6XO/MWAa/CNpMtbGwe1qvUOnj1K3bYVk=",
+      "colonia": "/n1mQQ+aaIhHOwSIYmDX5MnSN3RSOdzuBngQ88mUU0Y6KZygIQXAG0xRCVyJlmCm",
+      "codigoPostal": "X6ktkCyI5H+qmftmzevLqE95+coPAzYaXmrY+YeJCas=",
+      "municipio": "7RFneSgY3IydR6tIHd+SFFW6x85QQq5ZiXy3ZRz9dhs=",
+      "entidadFederativa": "XSbzufZXIcdMAWs7ENF3+Iv5R2a45OA3K35vCbCejqrFX1laYMr2FtBhq7Q/ahwR",
+      "ciudad": "oUzeOlwlFjbSg9KGijgicPnIR8oWEGJNLbt1zVvFHLJKY984/V+aMLvXwPEPT5Kr",
+      "ubicacion": {
+        "latitud": "3rF1c7ui1QjBnW4sNLEemV+D1SPr4OW+ZpxVdzCXNPo=",
+        "longitud": "VE0WBeVmg4Ff10bwaydPDEUWdYSB7rFgxAy/BRWqyK4="
+      }
+    },
+    "categoria": {
+      "id": "35",
+      "nombre": "Abarrotes y Cocina",
+      "subCategoria": {
+        "id": "35005",
+        "nombre": "Bocadillos",
+        "subCategoria": null
+      }
+    }
+  },
+  "productos": null,
+  "plastico": false
+}

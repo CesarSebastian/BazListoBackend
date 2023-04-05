@@ -1,0 +1,10 @@
+{
+  "url_dev": "https://api.middleware.delivery-dev.com",
+  "header_dev": {
+    "autorization" : null,
+    "x_id_interaccion" : "123e4567-e89b-12d3-a456-426655440000",
+    "x_sicu" : "241796043bb3423589809937918439f0",
+    "x_token_usuario" : "3M2phrXFv57Snyxk7tXrD4TNfebuXFKJ"
+  },
+  "encryp_key": "ehgA7C5vjH40vnSFpnaw6fdykI28EsIR"
+}
